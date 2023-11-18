@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects<br>👯 I’m looking to collaborate with other backend developers<br>🤝 I’m looking for help with backend<br>🌱 I’m currently learning backend<br>
+🔭 I’m currently working on my own projects<br>👯 I’m looking to collaborate with other developers<br>🤝 I’m looking for help with testing<br>🌱 I’m currently learning testing<br>
 
 
 ## 🌐 Socials:
